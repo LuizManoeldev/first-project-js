@@ -1,0 +1,140 @@
+body{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.icones {
+    padding-left: 5px;
+}
+
+.btn btn-dark my-2{
+    background-color: green;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #18bc9c
+}
+
+.paragrafoBrancos {
+    color: white !important;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: black !important;
+}
+
+.corPrimaria {
+    background-image: linear-gradient(-90deg, rgb(255, 0, 0), rgb(107, 12, 9)); 
+}
+
+.itemMenu {
+    color: white;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding-top: 16px;
+    padding-left: 4%;
+}
+
+.menu{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    color:white;
+    padding-left: 0px;
+    margin: auto;
+    font-size: 80px;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:29px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#00af3a;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:16px 59px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.w3-center{
+    padding-bottom: 31px;
+    padding-top: 15px;
+    background-image: linear-gradient(-90deg, rgb(255, 0, 0), rgb(107, 12, 9)); 
+}
+.jumbotron text-center corPrimaria {
+    padding-top: 0px;
+    text-align: center; 
+}
+
+.btn btn-dark my-2{
+    color: gre;
+}
+
+.botaozap{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.navbar-brand {
+    margin-right: 0;
+}
+
+.logo-position{
+    margin-right: 20;
+};
+/* 
+.plansnav{
+    color: white;
+    background-color: white;
+
+} */
+
+.navbar-brand2{
+    font-size: smaller;
+    
+}
